@@ -53,7 +53,7 @@ Currently, I work on edge AI and robotics applications at **D-Robotics**, focusi
 | --- | --- | --- |
 | [gemma4-e2b-rdk-s100p](https://github.com/shockley6668/gemma4-e2b-rdk-s100p) | Edge LLM / RDK S100P | Deploying large-model workflows on D-Robotics edge hardware. |
 | [meta_sim2024_ep_docker](https://github.com/shockley6668/meta_sim2024_ep_docker) | Sim2Real / Robotics Docker | Environment support for robotics simulation and deployment workflows. |
-| BDX Bipedal Robot Replication | RL / Sim2Real / Embedded | Built STM32 H7 communication stack, tuned PPO reward functions, and deployed policies on RDK X5. |
+| [BDX Bipedal Robot Replication](https://forum-en.d-robotics.cc/t/zero-to-one-the-guide-to-building-a-bipedal-robot-with-the-rdk-x5/484) | RL / Sim2Real / Embedded | Built STM32 H7 communication stack, tuned PPO reward functions, and deployed policies on RDK X5. |
 | Dexterous Hand Control | Teleoperation / Kinematics | Mapped human hand motion to dexterous-hand joints through kinematics and optimization. |
 | 3D LiDAR Mobile Robot | SLAM / Planning / Control | Built localization, global/local planning, simulation, serial communication, and gimbal control pipelines. |
 
