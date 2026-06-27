@@ -1,22 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,55:22C55E,100:F97316&text=Shukun%20Huang&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=48&desc=Robotics%20Engineer%20%7C%20Embodied%20AI%20%7C%20Edge%20Deployment&descAlign=50&descAlignY=62" alt="Shukun Huang profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0EA5E9,55:22C55E,100:F97316&text=Shukun%20Huang&fontAlign=50&fontAlignY=36&fontColor=ffffff&fontSize=48&desc=Robotics%20Engineer%20%7C%20Embodied%20AI%20%7C%20Robot%20Learning%20%7C%20Edge%20AI&descAlign=50&descAlignY=62" alt="Shukun Huang profile header" />
 
-<a href="https://shukunhuang.tech/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=780&lines=Building+robots+that+understand%2C+decide%2C+and+act;Embodied+AI+%2B+Robot+Learning+%2B+ROS2;VLA%2FVLM+deployment+on+edge+robotics+hardware;Incoming+ECE+MEng+%40+University+of+Waterloo" alt="Typing SVG" />
-</a>
+<strong>Building robots that perceive, reason, and act reliably in the physical world.</strong>
 
-<p>
-  <a href="https://shukunhuang.tech/"><img src="https://img.shields.io/badge/Website-shukunhuang.tech-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:shukun.huang.robotics@gmail.com"><img src="https://img.shields.io/badge/Email-shukun.huang.robotics%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/shockley6668"><img src="https://img.shields.io/badge/GitHub-shockley6668-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<br />
+<br />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shockley6668&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shockley6668?style=for-the-badge&logo=github&label=Followers&color=22c55e" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/shockley6668?style=for-the-badge&logo=github&label=Stars&color=f97316" alt="GitHub stars" />
-</p>
+<a href="https://shukunhuang.tech/">Website</a> ·
+<a href="mailto:shukun.huang.robotics@gmail.com">Email</a> ·
+<a href="https://github.com/shockley6668">GitHub</a>
 
 </div>
 
