@@ -7,7 +7,7 @@
 <br />
 <br />
 
-<a href="https://shukunhuang.tech/">Website</a> ·
+<a href="https://shukunhuang.com/">Website</a> ·
 <a href="mailto:shukun.huang.robotics@gmail.com">Email</a> ·
 <a href="https://github.com/shockley6668">GitHub</a>
 
