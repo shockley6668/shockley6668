@@ -11,6 +11,16 @@
 <a href="mailto:shukun.huang.robotics@gmail.com">Email</a> ·
 <a href="https://github.com/shockley6668">GitHub</a>
 
+<br />
+<br />
+
+<a href="https://github.com/facebookincubator/muse-gadget-sdk/pull/178">
+  <img src="https://img.shields.io/badge/Meta_Open_Source-PR_%23178_Merged-8250DF?style=for-the-badge&amp;logo=meta&amp;logoColor=white" alt="Meta open source contribution: Muse Gadget SDK PR #178 merged" />
+</a>
+
+<p>RDK X5 Linux deployment docs for <a href="https://github.com/facebookincubator/muse-gadget-sdk">Muse Gadget SDK</a><br />
+Merged October 26, 2026 · <a href="https://github.com/facebookincubator/muse-gadget-sdk/pull/178">View contribution</a></p>
+
 </div>
 
 ---
@@ -28,10 +38,6 @@ Currently, I work on edge AI and robotics applications at **D-Robotics**, focusi
 | Embodied AI, VLA/VLM, robot learning, world models | ROS2, SLAM, planning, control, STM32, ESP32, RDK X3/X5/S100 | Edge deployment of LLM/VLA workflows for real robots |
 
 </div>
-
-### Open source
-
-Contributed RDK X5 Linux deployment documentation to Meta's [Muse Gadget SDK](https://github.com/facebookincubator/muse-gadget-sdk). [PR #178](https://github.com/facebookincubator/muse-gadget-sdk/pull/178) was merged in October 2026.
 
 ### Robotics Stack
 
