@@ -19,7 +19,7 @@
 
 I build robotics systems that connect learning-based intelligence with real-world deployment. My work spans embodied AI, robot learning, VLA/VLM models, reinforcement learning, perception, planning, control, embedded systems, and the ROS2 engineering stack.
 
-Currently, I work on edge AI and robotics applications at **D-Robotics**, focusing on deploying LLM/VLA workflows on RDK platforms. I am also an incoming **MEng student in Electrical and Computer Engineering at the University of Waterloo** for Fall 2026.
+Currently, I work on edge AI and robotics applications at **D-Robotics**, focusing on deploying LLM/VLA workflows on RDK platforms. I am also an **MEng student in Electrical and Computer Engineering at the University of Waterloo**.
 
 <div align="center">
 
@@ -28,6 +28,10 @@ Currently, I work on edge AI and robotics applications at **D-Robotics**, focusi
 | Embodied AI, VLA/VLM, robot learning, world models | ROS2, SLAM, planning, control, STM32, ESP32, RDK X3/X5/S100 | Edge deployment of LLM/VLA workflows for real robots |
 
 </div>
+
+### Open source
+
+Contributed RDK X5 Linux deployment documentation to Meta's [Muse Gadget SDK](https://github.com/facebookincubator/muse-gadget-sdk). [PR #178](https://github.com/facebookincubator/muse-gadget-sdk/pull/178) was merged in October 2026.
 
 ### Robotics Stack
 
@@ -51,6 +55,7 @@ Currently, I work on edge AI and robotics applications at **D-Robotics**, focusi
 
 | Project | Focus | Highlights |
 | --- | --- | --- |
+| [Muse Gadget on RDK X5](https://github.com/D-Robotics/rdk-x5-muse-gadget) | Edge AI / Touchscreen | Community Muse interface with a pixel avatar, chat captions, voice input and a 3D-printable enclosure. |
 | [gemma4-e2b-rdk-s100p](https://github.com/shockley6668/gemma4-e2b-rdk-s100p) | Edge LLM / RDK S100P | Deploying large-model workflows on D-Robotics edge hardware. |
 | [meta_sim2024_ep_docker](https://github.com/shockley6668/meta_sim2024_ep_docker) | Sim2Real / Robotics Docker | Environment support for robotics simulation and deployment workflows. |
 | [BDX Bipedal Robot Replication](https://forum-en.d-robotics.cc/t/zero-to-one-the-guide-to-building-a-bipedal-robot-with-the-rdk-x5/484) | RL / Sim2Real / Embedded | Built STM32 H7 communication stack, tuned PPO reward functions, and deployed policies on RDK X5. |
