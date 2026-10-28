@@ -11,16 +11,6 @@
 <a href="mailto:shukun.huang.robotics@gmail.com">Email</a> ·
 <a href="https://github.com/shockley6668">GitHub</a>
 
-<br />
-<br />
-
-<a href="https://github.com/facebookincubator/muse-gadget-sdk/pull/178">
-  <img src="https://img.shields.io/badge/Meta_Open_Source-PR_%23178_Merged-8250DF?style=for-the-badge&amp;logo=meta&amp;logoColor=white" alt="Meta open source contribution: Muse Gadget SDK PR #178 merged" />
-</a>
-
-<p>RDK X5 Linux deployment docs for <a href="https://github.com/facebookincubator/muse-gadget-sdk">Muse Gadget SDK</a><br />
-Merged October 26, 2026 · <a href="https://github.com/facebookincubator/muse-gadget-sdk/pull/178">View contribution</a></p>
-
 </div>
 
 ---
